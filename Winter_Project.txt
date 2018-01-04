@@ -1,0 +1,21 @@
+Data on individual beers from (1) www.ratebeer.com (hereafter RB) and (2) www.beeradvocate.com (hereafter BA)
+
+The columns in the eventual csv file would likely be:
+Brewery 1
+Brewery 2 (if any)
+Brewery 3 (if any)
+Beer Name
+Brewed by (brewer)
+Brewed in (location)
+ABV (alcohol volume)
+Style
+RB Website Rating (in the circle on the beer page, just the “overall" one not the “style” one)
+RB User Rating (listed as “weighted avg” on the site)
+RB Ratings (number of ratings)
+RB Distribution (on this page https://www.ratebeer.com/beer/evil-twin-brewski-go-fig-ure/464366/ it says “Broad Distribution”
+RB Date (earliest rating)
+BA Score
+BA Ratings
+BA Bros Score
+BA Availability
+BA Added on Date (don’t care about who added it)
